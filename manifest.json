@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Reddit Redirect",
+    "version": "1.0",
+    "description": "Redirects to a subreddit if the address bar input starts with r/",
+    "permissions": [
+      "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
