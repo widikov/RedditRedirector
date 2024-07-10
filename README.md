@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Redirects to the subreddit if the entry in the address bar starts with r/, done in 5 minutes for my needs."</h4>
+<h4 align="center">Redirects to the subreddit if the entry in the address bar starts with r/</h4>
 
 <p align="center">
   <a href="https://github.com/widikov/RedditRedirector/releases/download/Release/RedditRedirector.crx">Download .crx</a> •
